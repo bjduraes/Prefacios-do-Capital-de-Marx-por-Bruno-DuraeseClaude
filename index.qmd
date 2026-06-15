@@ -219,6 +219,14 @@ Marx ainda diz ao leitor alemão: não seja hipócrita, não encolha os **"ombro
 
 E Marx acertou: a lógica capitalista chegou, com sua exploração humana e destruição da natureza, a todos os cantos do mundo — gerando um processo de **subalternidade global**.
 
+::: aside
+→ Prefácio à 1ª edição (1867)
+:::
+
+---
+
+## §5 — Campo, cidade e o agronegócio (cont.) {.center}
+
 **Milton Santos** (geógrafo, baiano, negro) falava em circuito superior e inferior da economia, e em primeiro e terceiro mundo. Por isso Milton escreveu a ideia de que era preciso construir uma *outra globalização* — em que os de baixo também pudessem se desenvolver. Mas o sistema não permite isso.
 
 > Essa preocupação de Marx em ver a realidade se expandindo foi uma compreensão eminentemente **sociológica**: ele fez uma leitura crítica do mundo, antecipou o futuro e alertou.
@@ -261,7 +269,7 @@ Marx, *O Capital*, Livro I, cap. 8 (sobre a jornada de trabalho). Tradução con
 
 ---
 
-## §8 — Perseu, o elmo e os monstros {.center}
+## §8 — Perseu, o elmo e os monstros {.center .smaller}
 
 > "Perseu necessitava de um elmo mágico para perseguir os monstros. Nós enterramos o nosso elmo nos olhos e nos ouvidos para podermos negar a existência dos monstros."
 
@@ -307,7 +315,7 @@ Marx, *O Capital*, Prefácio à 1ª edição. Ed. Civilização Brasileira, 2002
 
 ---
 
-## §10 — Crítica ao individualismo absoluto {.center}
+## §10 — Crítica ao individualismo absoluto {.center .smaller}
 
 **Bruno:** Isso rompe com diversos entendimentos que colocam o indivíduo como centro absoluto de tudo — dono de si, dono do mundo, vontade máxima de potência, ou o próprio Deus — como defendia **Friedrich Nietzsche** e como defendem hoje várias correntes do **pós-modernismo** e do chamado **identitarismo**.
 
@@ -476,7 +484,7 @@ No caso alemão, a economia política ideológica não conseguiu se desenvolver 
 
 ---
 
-## §12 — Os alemães como "imitadores" {.center}
+## §12 — Os alemães como "imitadores" {.center .smaller}
 
 > "Os alemães, na fase decadente da economia burguesa, continuaram sendo o que tinham sido na sua fase clássica: simples aprendizes, repetidores e imitadores, modestos vendedores a domicílio dos grandes atacadistas estrangeiros."
 
@@ -520,7 +528,7 @@ Na p. 26 (§§17 a 21), Marx mostra como estava sendo chamado de **"metafísico"
 
 ---
 
-## Método de pesquisa × método de exposição {.center}
+## Método de pesquisa × método de exposição {.center .smaller}
 
 **Bruno:** Quase no final do segundo prefácio (p. 28), Marx fala da diferença entre o **método de exposição** e o **método de pesquisa**:
 

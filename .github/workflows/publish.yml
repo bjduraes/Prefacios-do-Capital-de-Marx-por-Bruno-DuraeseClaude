@@ -27,6 +27,22 @@ jobs:
       - name: Render presentation
         run: quarto render index.qmd --to revealjs
 
+      - name: Install Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install decktape
+        run: npm install -g decktape
+
+      - name: Generate PDF
+        run: |
+          npx decktape reveal \
+            --size 1280x720 \
+            --pause 1000 \
+            _site/index.html \
+            _site/prefacios-capital-marx.pdf
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
