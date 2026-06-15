@@ -34,14 +34,20 @@ jobs:
 
       - name: Install decktape
         run: npm install -g decktape
+        continue-on-error: true
 
-      - name: Generate PDF
+      - name: Generate PDF via local server
         run: |
+          python3 -m http.server 8000 --directory _site &
+          sleep 5
           npx decktape reveal \
             --size 1280x720 \
-            --pause 1000 \
-            _site/index.html \
+            --pause 500 \
+            --chrome-arg=--no-sandbox \
+            --chrome-arg=--disable-setuid-sandbox \
+            http://localhost:8000/index.html \
             _site/prefacios-capital-marx.pdf
+        continue-on-error: true
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
