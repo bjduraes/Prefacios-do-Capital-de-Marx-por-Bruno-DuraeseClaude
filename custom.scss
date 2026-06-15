@@ -16,8 +16,9 @@ $link-color: #ff9999;
   color: $text-color;
 }
 
-.reveal .slide {
-  padding-bottom: 30px;
+/* Garante espaço no fundo de todos os slides para o aside não bater no conteúdo */
+.reveal .slides section {
+  padding-bottom: 70px !important;
 }
 
 .reveal h1 {
@@ -43,9 +44,21 @@ $link-color: #ff9999;
   text-align: left;
 }
 
-.reveal .authors {
+/* Nome do autor e afiliação maiores no slide de título */
+.reveal .authors,
+.reveal .author,
+.reveal .quarto-title-author-name {
   color: $text-color;
   text-align: left;
+  font-size: 1.2em !important;
+  font-family: 'Inter', sans-serif;
+}
+
+.reveal .affiliation,
+.reveal .quarto-title-affiliation {
+  color: $primary-color;
+  font-size: 1.1em !important;
+  font-family: 'Inter', sans-serif;
 }
 
 .reveal p,
@@ -96,16 +109,18 @@ $link-color: #ff9999;
   background-color: transparent;
 }
 
+/* Aside fixado no canto inferior esquerdo, abaixo de todo o conteúdo */
 .reveal .aside,
 .reveal aside,
 .reveal section aside {
   position: absolute !important;
-  bottom: 38px !important;
+  bottom: 6px !important;
   left: 20px !important;
-  font-size: 0.4em !important;
-  color: rgba(224, 85, 85, 0.5) !important;
+  font-size: 0.38em !important;
+  color: rgba(224, 85, 85, 0.45) !important;
   font-family: 'Inter', sans-serif !important;
   font-style: normal !important;
   line-height: 1.2 !important;
-  max-width: 300px !important;
+  max-width: 280px !important;
+  z-index: 10 !important;
 }
