@@ -1,24 +1,22 @@
 ---
 title: "Os Prefácios de *O Capital*"
-subtitle: "<br>Karl Marx — Leitura comentada · Sociologia do Trabalho — UFBA 2026"
-date: today
-date-format: full
+subtitle: "<br>Karl Marx — Leitura comentada · UFBA 2026"
 lang: pt-br
 format:
   revealjs:
-    theme: serif
+    theme: [default, custom.scss]
     slide-number: true
     incremental: false
     chalkboard:
       buttons: true
-    footer: "UFBA — Sociologia do Trabalho 2026 | Prof. Bruno Durães"
+    footer: "UFBA 2026 | Prof. Bruno Durães"
     logo: https://raw.githubusercontent.com/ericbrasiln/hdan/refs/heads/main/imgs/LABHDUFBA.png
     width: 1280
     height: 720
 author:
   - name: Bruno Durães
     email: bjduraes@gmail.com
-    affiliation: UFBA | Sociologia do Trabalho
+    affiliation: UFBA
 toc: false
 ---
 
@@ -27,6 +25,12 @@ toc: false
 > "Não há estrada real para a ciência, e só têm probabilidade de chegar a seus cimos luminosos aqueles que não temem a fadiga de galgá-los por veredas abruptas."
 
 **Karl Marx**, *Prefácio à edição francesa de O Capital*, Londres, 1872.
+
+---
+
+## Karl Marx (1818–1883) {.center}
+
+![Karl Marx, fotografia de John Jabez Edwin Mayall, c. 1875. Domínio Público. Fonte: Wikimedia Commons. Acesso em: 14 jun. 2026.](https://upload.wikimedia.org/wikipedia/commons/d/d4/Karl_Marx_001.jpg){width=35%}
 
 ---
 
@@ -157,7 +161,7 @@ Essa ideia reaparece na crítica ao colonialismo e à escravidão:
 
 > "O trabalho de pele branca não pode emancipar-se onde o trabalho de pele negra é marcado a ferro."
 
-Marx, *O Capital*, Livro I, cap. 8 (sobre a jornada de trabalho).
+Marx, *O Capital*, Livro I, cap. 8.
 
 > *→ No Brasil: a informalidade e a precariedade são, em grande medida, a continuação da escravidão por outros meios.*
 
@@ -183,7 +187,7 @@ Marx, *O Capital*, Prefácio à 1ª edição. Ed. Civilização Brasileira, 2002
 
 *É a ideia de universalidade e historicidade em Marx: olhar o passado e o presente de outros lugares e relacioná-los com o nosso — exercício dialético.*
 
-**Na p. 18:** o objetivo de Marx é revelar a **lei econômica do movimento da sociedade moderna** para que outros povos possam aprender, se não para evitar certas situações, ao menos para amenizá-las com a experiência alheia.
+**Na p. 18:** o objetivo de Marx é revelar a **lei econômica do movimento da sociedade moderna** para que outros povos possam aprender com a experiência alheia.
 
 ---
 
@@ -201,7 +205,7 @@ Marx, *O Capital*, Prefácio à 1ª edição. Ed. Civilização Brasileira, 2002
 
 **Claude:** As "máscaras de caráter": o capitalista e o latifundiário interessam a Marx não como vilões pessoais, mas como *personificações de relações estruturais*.
 
-> "Os homens fazem sua própria história, mas não a fazem como querem, nem sob circunstâncias de sua escolha, e sim sob aquelas com que se defrontam diretamente, legadas e transmitidas pelo passado."
+> "Os homens fazem sua própria história, mas não a fazem como querem, nem sob circunstâncias de sua escolha."
 
 Marx, *O 18 de Brumário de Luís Bonaparte*, 1852.
 
@@ -223,8 +227,6 @@ Marx, *O Capital*, Prefácio à 1ª edição. Ed. Civilização Brasileira, 2002
 > *(Segui il tuo corso, e lascia dir le genti)*
 
 Marx cita **Dante Alighieri** (*Divina Comédia*, Purgatório, V) no fim do Prefácio à 1ª edição. Ed. Civilização Brasileira, 2002, p. 19.
-
-**Bruno:** Marx diz que acolherá bem as críticas; mas, quanto aos preconceitos da opinião pública, seguirá a máxima do florentino.
 
 **Claude:** Dante Alighieri (1265–1321), poeta de Florença. É a divisa de quem segue sua obra sem se deixar abater pela maledicência. Marx o tinha como um de seus poetas prediletos.
 
@@ -249,11 +251,9 @@ Marx cita **Dante Alighieri** (*Divina Comédia*, Purgatório, V) no fim do Pref
 
 ## §§6-8 — Economia política burguesa e seus limites {.center}
 
-**Bruno:** Marx mostra como a economia política burguesa via o capitalismo como a **forma definitiva e eterna** do modo de produção — e só conseguia se manter enquanto a classe trabalhadora estava latente.
+**Bruno:** Marx mostra como a economia política burguesa via o capitalismo como a **forma definitiva e eterna** do modo de produção.
 
-Assim que houve luta de classes direta, a economia política passou a ser contestada.
-
-**David Ricardo** (Londres, 1772–1823): levou ao auge a teoria do valor-trabalho; para Marx, o ponto mais alto *e* o limite da economia clássica — incapaz de ver o capitalismo como histórico e transitório.
+**David Ricardo** (Londres, 1772–1823): levou ao auge a teoria do valor-trabalho; ponto mais alto *e* limite da economia clássica — incapaz de ver o capitalismo como histórico e transitório.
 
 **Sismondi** (Genebra, 1773–1842): primeiro a apontar as crises e contradições do capitalismo — inaugurou a crítica, ainda que de viés "pequeno-burguês".
 
@@ -265,7 +265,7 @@ Assim que houve luta de classes direta, a economia política passou a ser contes
 
 Marx, *O Capital*, Posfácio à 2ª edição. Ed. Civilização Brasileira, 2002, p. 24.
 
-**Bruno:** Com a burguesia no poder na França e na Inglaterra, a economia política deixou de ser imparcial e passou a servir por completo aos interesses do capital.
+**Bruno:** Com a burguesia no poder, a economia política deixou de ser imparcial e passou a servir por completo aos interesses do capital.
 
 *Apologética — de apologia: defesa incondicional do status quo.*
 
@@ -290,8 +290,6 @@ No caso alemão, a economia política ideológica não conseguiu se desenvolver 
 - Levantes na região do Mosela (a questão do furto da lenha, 1842)
 - Levante dos tecelões da Silésia (1844)
 
-**Claude:** O jovem Marx escreveu sobre os tecelões em 1844, vendo neles um dos primeiros sinais de consciência de classe do proletariado alemão.
-
 ---
 
 ## §12 — Os alemães como "imitadores" {.center}
@@ -300,7 +298,7 @@ No caso alemão, a economia política ideológica não conseguiu se desenvolver 
 
 Marx, *O Capital*, Posfácio à 2ª edição. Ed. Civilização Brasileira, 2002, p. 24.
 
-**Claude:** A ironia é mordaz e tem várias camadas: Marx descreve a atividade intelectual deles com o vocabulário do próprio *comércio* que defendiam. E enquanto o proletariado alemão já agia como sujeito histórico, sua "intelligentsia" econômica permanecia subalterna e dependente — inverte-se a hierarquia esperada.
+**Claude:** A ironia é mordaz: Marx descreve a atividade intelectual deles com o vocabulário do próprio comércio que defendiam. Enquanto o proletariado alemão já agia como sujeito histórico, sua "intelligentsia" econômica permanecia subalterna e dependente.
 
 ---
 
@@ -311,19 +309,6 @@ Marx, *O Capital*, Posfácio à 2ª edição. Ed. Civilização Brasileira, 2002
 Marx, *O Capital*, Posfácio à 2ª edição. Ed. Civilização Brasileira, 2002, p. 25.
 
 **Bruno:** Marx ressalta o caráter de crítica — "arma da crítica" (1843) — e coloca o proletariado como o ser dotado de uma **práxis e de uma missão**: fazer a revolução. O primeiro passo: entender a própria realidade.
-
----
-
-## §§14, 18-21 — Tentativas de silêncio e a questão do "método" {.center}
-
-**Bruno:** Os porta-vozes da burguesia tentaram, com violência, evitar a repercussão da obra. Quando não conseguiram silenciá-la, começaram a escrever contra, chamando Marx de "metafísico".
-
-**Claude:** Marx cita resenhas alemãs, francesas e russas que tentavam classificar seu método — e elas se contradizem entre si:
-
-- Para uns: *abstrato demais* ("metafísico", "dialético-alemão")
-- Para outros: *concreto demais* (rigorosamente "realista" e empírico)
-
-> *Para Marx, essa contradição dos críticos apenas revela que não compreenderam o método dialético.*
 
 ---
 
@@ -338,28 +323,17 @@ Marx, *O Capital*, Posfácio à 2ª edição. Ed. Civilização Brasileira, 2002
 - **Método de pesquisa**: apropriar-se da matéria em detalhe, analisar formas, rastrear conexões internas
 - **Método de exposição**: apresentar o já investigado de forma sistemática, do abstrato ao concreto
 
-*A exposição pode "parecer" uma construção a priori, mas resulta de pesquisa empírica anterior.*
-
 ---
 
 ## Hegel "de cabeça para baixo" {.center}
 
-> "A mistificação por que passa a dialética nas mãos de Hegel não o impediu de ser o primeiro a apresentar suas formas gerais de movimento, de maneira ampla e consciente. Em Hegel, a dialética está de cabeça para baixo. É necessário pô-la de cabeça para cima, a fim de descobrir a substância racional dentro do invólucro místico."
+> "Em Hegel, a dialética está de cabeça para baixo. É necessário pô-la de cabeça para cima, a fim de descobrir a substância racional dentro do invólucro místico."
 
 Marx, *O Capital*, Posfácio à 2ª edição. Ed. Civilização Brasileira, 2002, p. 29.
 
----
-
-## A relação Marx–Hegel {.center}
-
 **Bruno:** É uma frase famosa, mas muitas vezes usada de forma vulgar, como se Marx abandonasse tudo de Hegel — e isso não é verdade.
 
-**Claude:** A metáfora da "inversão" não é uma rejeição de Hegel; é uma **reapropriação crítica**:
-
-- Marx **mantém** o núcleo racional: a dialética como lógica do movimento, da contradição e da totalidade
-- Marx **rejeita** o invólucro místico: o idealismo que faz a Ideia criar o real
-
-> A leitura vulgar ("é só virar Hegel de ponta-cabeça e pronto") joga fora a dialética junto com o idealismo — ficando com um "materialismo" raso e não-dialético. Exatamente o que Marx critica.
+**Claude:** A metáfora da "inversão" não é uma rejeição de Hegel; é uma **reapropriação crítica**. Marx mantém o núcleo racional — a dialética — e rejeita o invólucro místico — o idealismo. A leitura vulgar joga fora a dialética junto com o idealismo, ficando com um "materialismo" raso e não-dialético.
 
 ---
 
@@ -407,3 +381,4 @@ Marx, *O Capital*, Prefácio à edição francesa. Ed. Civilização Brasileira,
 - SANTOS, Milton. *Por uma outra globalização*. Rio de Janeiro: Record, 2000.
 - IBN KHALDUN. *Os Prolegômenos (Muqaddimah)*. Escrito em 1377.
 - DANTE ALIGHIERI. *A Divina Comédia (Purgatório)*. [1265–1321].
+- MARX, Karl. Fotografia de John Jabez Edwin Mayall, c. 1875. Domínio Público. Wikimedia Commons. Acesso em: 14 jun. 2026.

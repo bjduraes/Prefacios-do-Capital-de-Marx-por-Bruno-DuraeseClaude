@@ -1,0 +1,97 @@
+/*-- scss:defaults --*/
+
+// Cores
+$background-color: #1a0808;
+$text-color: #f0e8e8;
+$primary-color: #e05555;
+$link-color: #ff9999;
+
+/*-- scss:rules --*/
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap');
+
+.reveal {
+  font-family: 'Merriweather', serif;
+  background-color: $background-color;
+  color: $text-color;
+}
+
+.reveal .slide {
+  padding-bottom: 30px;
+}
+
+.reveal h1 {
+  font-family: 'Merriweather', serif;
+  font-weight: 400;
+  color: $primary-color;
+  font-size: 1.8em;
+  text-align: left;
+}
+
+.reveal h2,
+.reveal h3 {
+  font-family: 'Merriweather', serif;
+  font-weight: 400;
+  color: $primary-color;
+  font-size: 1.3em;
+  text-align: left;
+}
+
+.reveal .title,
+.reveal .subtitle {
+  color: $primary-color;
+  text-align: left;
+}
+
+.reveal .authors {
+  color: $text-color;
+  text-align: left;
+}
+
+.reveal p,
+.reveal ul li,
+.reveal ol li {
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  font-size: 0.95em;
+  color: $text-color;
+}
+
+.reveal a {
+  color: $link-color;
+}
+
+.reveal blockquote {
+  border-left: 4px solid $primary-color;
+  background: rgba(224, 85, 85, 0.1);
+  color: $text-color;
+  font-style: italic;
+  padding: 0.5em 1em;
+  margin: 0.5em 0;
+}
+
+.reveal table {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.85em;
+  color: $text-color;
+}
+
+.reveal table th {
+  color: $primary-color;
+  border-bottom: 2px solid $primary-color;
+}
+
+.reveal table td {
+  border-bottom: 1px solid rgba(224, 85, 85, 0.3);
+}
+
+.reveal .footer > * {
+  color: $primary-color;
+  font-family: 'Inter', sans-serif;
+  font-size: 0.8em;
+}
+
+.reveal .slide-number {
+  color: $primary-color;
+  background-color: transparent;
+}
