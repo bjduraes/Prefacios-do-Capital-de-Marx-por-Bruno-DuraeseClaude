@@ -30,7 +30,7 @@ toc: false
 
 ## Karl Marx (1818–1883) {.center}
 
-![Karl Marx, fotografia de John Jabez Edwin Mayall, c. 1875. Domínio Público. Fonte: Wikimedia Commons. Acesso em: 14 jun. 2026.](https://upload.wikimedia.org/wikipedia/commons/d/d4/Karl_Marx_001.jpg){width=35%}
+![Karl Marx, fotografia de John Jabez Edwin Mayall, c. 1875. Domínio Público. Fonte: Wikimedia Commons. Acesso em: 15 jun. 2026.](https://upload.wikimedia.org/wikipedia/commons/d/d4/Karl_Marx_001.jpg){width=35%}
 
 ---
 
@@ -38,18 +38,17 @@ toc: false
 
 **Resumo comentado dos Prefácios de *O Capital***
 
-Edição Civilização Brasileira (Livro I, Vol. I)
-Trad. Reginaldo Sant'Anna · 19ª ed. · Rio de Janeiro, 2002
+Edição Civilização Brasileira (Livro I, Vol. I) — Trad. Reginaldo Sant'Anna · 19ª ed. · Rio de Janeiro, 2002
 
 <br>
 
 Material didático em **coautoria**:
-**Bruno Durães** (concepção, seleção, comentários teóricos)
-& **Claude / Anthropic** (organização, verificações, comentários complementares)
+**Bruno Durães** (concepção, seleção, comentários teóricos) &
+**Claude / Anthropic** (organização, verificações, comentários complementares)
 
 <br>
 
-*Apenas os prefácios de Marx estão incluídos — excluídos prefácios de Engels e posfácio.*
+*Apenas os prefácios de Marx — excluídos prefácios de Engels e posfácio.*
 
 ---
 
@@ -79,7 +78,7 @@ Prefácio à 1ª edição
 
 ## §3 — "Todo começo é difícil em qualquer ciência" {.center}
 
-> "Todo começo é difícil em qualquer ciência. Por isso, o Capítulo I é o que oferece maior dificuldade à compreensão, notadamente a seção que contém a análise da mercadoria."
+> "Todo começo é difícil em qualquer ciência. Por isso, o Capítulo I é o que oferece maior dificuldade à compreensão, notadamente a seção que contém a análise da mercadoria. Nele procurei expor, com a maior clareza possível, o que concerne especialmente à análise da substância e da magnitude do valor."
 
 Marx, *O Capital*, Prefácio à 1ª edição. Ed. Civilização Brasileira, 2002, p. 15.
 
@@ -89,15 +88,31 @@ Marx, *O Capital*, Prefácio à 1ª edição. Ed. Civilização Brasileira, 2002
 
 ---
 
-## §3 — O método: do real ao concreto pensado {.center}
+## §3 — O método dialético: problematização {.center}
 
-**Bruno:** O Capítulo 1 é o mais difícil porque a mercadoria é a forma mais *aparente* da sociedade. Partir da forma aparente é o método de Marx — materialista e dialético.
+**Bruno:** Marx diz que o Capítulo 1 — o capítulo da mercadoria — é o mais difícil. A mercadoria é a forma mais *aparente* da sociedade. Partir da forma aparente é justamente o método científico dele: o método materialista e dialético — começar do mais aparente e ir adentrando em complexidades menos visíveis.
+
+Esse processo, em sociologia, chamamos de **problematização** ou exercício reflexivo de romper com o imediato ou o instituído.
+
+Esse método aparece de forma desenvolvida no texto *"O método da economia política"* (1859): o real é uma síntese de múltiplas determinações — a **"unidade do diverso"**.
+
+::: aside
+→ Prefácio à 1ª edição (1867)
+:::
+
+---
+
+## §3 — O exemplo da "População" {.center}
+
+**Bruno:** Quem se contenta apenas com a aparência dos fenômenos não entende as coisas de fato.
+
+Marx dá o exemplo da **"População"**: se ficarmos só nesse termo geral, não chegamos à essência — que é o detalhamento das determinações que o compõem (quem são? Como vivem? Quais classes?). A ciência é necessária para romper o véu da aparência e penetrar em determinações mais concretas.
 
 **O percurso em três momentos:**
 
-1. Parte-se do **real** (ex.: "população")
-2. Faz-se o caminho das **abstrações** — "concreto pensado"
-3. Volta-se ao real, agora compreendido em profundidade
+1. Parte-se do **real**
+2. Faz-se o caminho das **abstrações** → "concreto pensado"
+3. Volta-se ao real inicial, agora compreensível em maior profundidade
 
 > *Esse entendimento é sempre provisório: o mundo muda, a ciência também precisa mudar.*
 
@@ -109,11 +124,30 @@ Marx, *O Capital*, Prefácio à 1ª edição. Ed. Civilização Brasileira, 2002
 
 ## §3 — A abstração como microscópio {.center}
 
-> "Na análise das formas econômicas, não se pode utilizar nem microscópio nem reagentes químicos. A capacidade de abstração substitui esses meios."
+> "Além disso, na análise das formas econômicas, não se pode utilizar nem microscópio nem reagentes químicos. A capacidade de abstração substitui esses meios."
 
 Marx, *O Capital*, Prefácio à 1ª edição. Ed. Civilização Brasileira, 2002, p. 16.
 
-**Bruno:** Fazer ciência sobre a sociedade é mais difícil por causa de suas características próprias. A forma-mercadoria encobre a forma-trabalho: valor de uso (trabalho concreto) × valor de troca (trabalho abstrato — imposto socialmente, não pelo trabalhador).
+**Bruno:** É mais fácil estudar um organismo como todo (a totalidade) do que suas partes. E na análise da sociedade não há como usar microscópio — mas a **capacidade de abstração**, a inventividade e criatividade do pensamento, substitui o microscópio.
+
+Essa comparação (ciência social × ciências naturais) era corrente no século XIX — Saint-Simon, Comte e Durkheim. Marx acompanhava debates em vários idiomas e nacionalidades, incluindo uma diversidade de povos.
+
+::: aside
+→ Prefácio à 1ª edição (1867)
+:::
+
+---
+
+## §3 — Valor de uso e valor de troca {.center}
+
+**Bruno:** A forma-mercadoria é difícil de entender porque ela é o revestimento da forma-trabalho. A mercadoria é a **forma-valor**, que contém:
+
+- **Valor de uso** → trabalho concreto: qualitativo, rico em diversidade, vida, experiências, sentidos e cultura
+- **Valor de troca** → trabalho abstrato: medido, quantificado, com preço-hora socialmente médio
+
+O trabalho abstrato **não é** uma definição feita pelo trabalhador, mas uma imposição social — não de um capitalista isolado, mas de um tipo de sociedade que valoriza quantidade, preço e lucro sobre sentidos, liberdade e realização humana.
+
+A forma do valor de troca (trabalho abstrato) **hegemoniza a sociedade e domina o ser humano**. Daí a importância da dialética: ir às partes e voltar ao todo.
 
 ::: aside
 → Prefácio à 1ª edição (1867)
@@ -123,16 +157,9 @@ Marx, *O Capital*, Prefácio à 1ª edição. Ed. Civilização Brasileira, 2002
 
 ## §4 — Pensar por conta própria {.center}
 
-**Bruno:** Marx diz que sua obra interessa sobretudo a quem quer **"pensar por sua própria conta"** — defendendo a liberdade e autonomia do pensar. Isso em 1867.
+**Bruno:** No §4 (p. 16), Marx diz que essa obra interessa sobretudo a quem quer **"pensar por sua própria conta"** — defendendo a liberdade e a autonomia do pensar. Isso em 1867.
 
-Fontes de dominação do pensamento à época:
-
-- A Igreja (catolicismo e protestantismo)
-- O cartesianismo / racionalismo / empirismo
-- O idealismo (Kant, hegelianos)
-- A **economia política** — ideologia da burguesia
-
-> *Marx a chamava de "política" justamente para dizer que toda explicação econômica é uma visão de mundo — uma ideologia.*
+O contexto europeu: pensamento ainda dominado pela Igreja. O **protestantismo** (Lutero e Calvino) havia permitido uma ligação mais direta do indivíduo com Deus — a vida regrada como sinal do predestinado (Max Weber, *A ética protestante e o espírito do capitalismo*). Mas ainda era um contexto de dominação religiosa sobre o pensamento.
 
 ::: aside
 → Prefácio à 1ª edição (1867)
@@ -140,21 +167,17 @@ Fontes de dominação do pensamento à época:
 
 ---
 
-## §5 — O cientista e o leitor alemão {.columns .center}
+## §4 — Outras fontes de dominação do pensamento {.center}
 
-::: {.column width="50%"}
-**Bruno:** Marx compara seu fazer científico ao de um físico — estratégia para o leitor não familiarizado se sentir motivado a fazer essa leitura "árdua, longa, tortuosa, mas necessária e fundamental para a libertação humana".
+**Bruno:** Além da Igreja, outras fontes de dominação do pensamento em 1867:
 
-Marx faz uma advertência aos trabalhadores alemães:
-:::
+- **Cartesianismo / racionalismo / empirismo / dedutivismo e indutivismo** (Descartes, Bacon)
+- **Idealismo filosófico** (Kant e os hegelianos)
+- Os **"ideólogos da burguesia"**: a economia política inglesa e francesa
 
-::: {.column width="50%"}
-> "Não encolham os ombros diante da situação dos trabalhadores ingleses. O que está acontecendo na Inglaterra vai acontecer também na Alemanha."
+Marx a chamava de "política" para dizer que toda explicação econômica **não é só economia ou números**, mas uma visão de mundo, uma forma política de agir, uma ideologia.
 
-Marx, p. 16.
-
-*E Marx acertou — a lógica capitalista chegou a todos os cantos do mundo.*
-:::
+*O Capital* se propõe a fazer essas críticas em diversas áreas — não só na economia, mas na forma de naturalização do mundo que reafirmava o status quo e colocava sempre a burguesia como legitimamente superior aos trabalhadores.
 
 ::: aside
 → Prefácio à 1ª edição (1867)
@@ -162,13 +185,43 @@ Marx, p. 16.
 
 ---
 
-## §5 — Campo, cidade e Milton Santos {.center}
+## §4 — A burguesia no poder {.center}
 
-**Claude:** Marx recusa separar trabalhador rural e urbano — coerente com o cap. 24 (acumulação primitiva), onde a expropriação do campo (os *cercamentos*) é o que produz a força de trabalho "livre" nas cidades.
+**Bruno:** A burguesia fez sua revolução, mas, uma vez no poder, passou a dominar aqueles que a haviam ajudado em sua luta. Marx explica isso n'*O 18 de brumário de Luís Bonaparte* e no capítulo 24 d'*O Capital*, sobre a acumulação primitiva.
 
-**Campo e cidade são dois momentos do mesmo processo.**
+> Antes a nobreza dominava. A burguesia fez sua revolução — e reproduziu a dominação.
 
-> Milton Santos (*Por uma outra globalização*, 2000) traz esse argumento para o Sul: circuito superior e inferior da economia; Norte e Sul global. A lógica capitalista gera um processo de **subalternidade global**.
+Quando Marx escreve sobre "pensar por conta própria", é para chamar atenção para o **ser crítico e autônomo**, capaz de romper com todas essas amarras — religiosas, filosóficas e econômicas.
+
+::: aside
+→ Prefácio à 1ª edição (1867)
+:::
+
+---
+
+## §5 — O físico e o leitor alemão {.center}
+
+**Bruno:** No §5 (p. 16), Marx compara seu fazer científico ao de um físico — provavelmente como estratégia para o leitor não familiarizado com a ciência da sociedade se sentir motivado a fazer essa leitura *"árdua, longa, tortuosa, difícil, mas necessária e fundamental para a libertação humana e para a tomada de consciência e para reação coletiva via luta de classes"*.
+
+> "O físico observa os processos da natureza [...]. Nesta obra, o que tenho a pesquisar é o modo de produção capitalista e as correspondentes relações de produção e circulação."
+
+Marx ainda diz ao leitor alemão: não seja hipócrita, não encolha os **"ombros diante da situação dos trabalhadores ingleses"** — pois o que está acontecendo na Inglaterra vai acontecer também na Alemanha.
+
+::: aside
+→ Prefácio à 1ª edição (1867)
+:::
+
+---
+
+## §5 — Campo, cidade e o agronegócio {.center}
+
+**Bruno:** Marx relaciona o entendimento da **cidade e do campo**, mostrando que tudo passa a se urbanizar e/ou mecanizar. Ele antecipou isso bem antes de muita gente — hoje algo corrente com a lógica avassaladora do **agronegócio**.
+
+E Marx acertou: a lógica capitalista chegou, com sua exploração humana e destruição da natureza, a todos os cantos do mundo — gerando um processo de **subalternidade global**.
+
+**Milton Santos** (geógrafo, baiano, negro) falava em circuito superior e inferior da economia, e em primeiro e terceiro mundo. Por isso Milton escreveu a ideia de que era preciso construir uma *outra globalização* — em que os de baixo também pudessem se desenvolver. Mas o sistema não permite isso.
+
+> Essa preocupação de Marx em ver a realidade se expandindo foi uma compreensão eminentemente **sociológica**: ele fez uma leitura crítica do mundo, antecipou o futuro e alertou.
 
 ::: aside
 → Prefácio à 1ª edição (1867)
@@ -182,6 +235,10 @@ Marx, p. 16.
 
 Marx, *O Capital*, Prefácio à 1ª edição. Ed. Civilização Brasileira, 2002, p. 17.
 
+**Bruno:** A situação da Alemanha é ainda pior: além de já sofrer com o início destrutivo do capitalismo — tardio ali —, ela ainda padecia com antigos regimes exploratórios e perversos não superados.
+
+*Vivos* = novas formas de exploração capitalistas. *Mortos* = resíduos arcaicos e feudais que permaneciam.
+
 ::: aside
 → Prefácio à 1ª edição (1867)
 :::
@@ -190,15 +247,13 @@ Marx, *O Capital*, Prefácio à 1ª edição. Ed. Civilização Brasileira, 2002
 
 ## §7 — Vivos, mortos e o Brasil {.center}
 
-**Bruno:** A Alemanha sofria com as novas formas de exploração capitalistas *e* com resíduos arcaicos e feudais não superados.
-
-Essa ideia reaparece na crítica ao colonialismo e à escravidão:
+**Bruno:** Essa ideia reaparece na crítica de Marx ao colonialismo e à escravidão negra, sobretudo quando fala dos EUA:
 
 > "O trabalho de pele branca não pode emancipar-se onde o trabalho de pele negra é marcado a ferro."
 
-Marx, *O Capital*, Livro I, cap. 8.
+Marx, *O Capital*, Livro I, cap. 8 (sobre a jornada de trabalho). Tradução consagrada de: *"Labour cannot emancipate itself in the white skin where in the black it is branded."*
 
-> *→ No Brasil: a informalidade e a precariedade são, em grande medida, a continuação da escravidão por outros meios.*
+**Para o Brasil:** a informalidade e a precariedade são, em grande medida, a continuação da escravidão por outros meios. Os "mortos" (escravidão, colonialismo) atormentam os "vivos" (trabalhadores informais, entregadores, domésticas).
 
 ::: aside
 → Prefácio à 1ª edição (1867)
@@ -206,13 +261,15 @@ Marx, *O Capital*, Livro I, cap. 8.
 
 ---
 
-## §8 — Perseu, Medusa e o elmo mágico {.center}
+## §8 — Perseu, o elmo e os monstros {.center}
 
 > "Perseu necessitava de um elmo mágico para perseguir os monstros. Nós enterramos o nosso elmo nos olhos e nos ouvidos para podermos negar a existência dos monstros."
 
 Marx, *O Capital*, Prefácio à 1ª edição. Ed. Civilização Brasileira, 2002, p. 17.
 
-**Claude:** Na mitologia, o elmo de Hades tornava Perseu *invisível* para enfrentar a Górgona. Marx inverte: os homens de seu tempo usam o elmo para cobrir os próprios olhos — fingindo que as misérias sociais não existem.
+**Bruno:** Há uma frase no §8 que é fenomenal. Ela se conecta com a busca pela **liberdade de pensamento**, pelo olhar crítico, pela força do pensamento que quer revelar o mundo — mesmo diante dos riscos de novas alienações e de novas formas de ludibriar as pessoas: o **dinheiro**, o **poder** e os **cargos no sistema capitalista**.
+
+*O elmo de Hades tornava Perseu invisível para enfrentar os monstros. Marx inverte: os homens cobrem seus próprios olhos para fingir que os monstros não existem.*
 
 ::: aside
 → Prefácio à 1ª edição (1867)
@@ -220,15 +277,15 @@ Marx, *O Capital*, Prefácio à 1ª edição. Ed. Civilização Brasileira, 2002
 
 ---
 
-## §8 — "Uma nação deve e pode aprender de outra" {.center}
+## §8 — Quebrar ilusões e aprender entre nações {.center}
 
-**Bruno:** Ainda no §8, Marx adverte para não nos apegarmos a ilusões. E afirma:
+**Bruno:** Todo o pensamento, teoria e produção científica de Marx serão assim: para **quebrar ilusões** e desmontar as explicações dos burgueses e poderosos.
 
-> "Uma nação deve e pode aprender de outra."
+> "Uma nação deve e pode aprender de outra." — Marx, p. 17.
 
-*É a ideia de universalidade e historicidade em Marx: olhar o passado e o presente de outros lugares e relacioná-los com o nosso — exercício dialético.*
+É a ideia de **universalidade e historicidade** em Marx: olhar o passado e o presente de outros lugares e relacioná-los com o nosso — exercício dialético.
 
-**Na p. 18:** o objetivo de Marx é revelar a **lei econômica do movimento da sociedade moderna** para que outros povos possam aprender com a experiência alheia.
+Na p. 18, Marx diz que seu objetivo é revelar a **lei econômica do movimento da sociedade moderna**, para que outros países e povos possam aprender — se não para evitar determinada situação, ao menos para amenizá-la com a experiência alheia.
 
 ::: aside
 → Prefácio à 1ª edição (1867)
@@ -236,25 +293,27 @@ Marx, *O Capital*, Prefácio à 1ª edição. Ed. Civilização Brasileira, 2002
 
 ---
 
-## §10 — Categorias, não o indivíduo isolado {.center}
+## §10 — Categorias econômicas, não o indivíduo isolado {.center}
 
 > "As figuras do capitalista e do proprietário de terras não são aqui tratadas de maneira nada favorável. Mas trata-se de pessoas apenas enquanto personificação de categorias econômicas, enquanto portadoras de determinadas relações e interesses de classe."
 
 Marx, *O Capital*, Prefácio à 1ª edição. Ed. Civilização Brasileira, 2002, p. 18.
 
+**Bruno:** No §10 (p. 18), Marx diz que tentou dar ênfase às **categorias econômicas** e às **estruturas sociais**, e não apenas ao indivíduo. Essa noção não retira a agência do indivíduo no mundo e na história, mas mostra que **agimos com limitações dadas pela própria sociedade**.
+
 ::: aside
 → Prefácio à 1ª edição (1867)
 :::
 
 ---
 
-## §10 — Máscaras de caráter (*Charaktermasken*) {.center}
+## §10 — Crítica ao individualismo absoluto {.center}
 
-**Bruno:** Marx dá ênfase às estruturas, não apenas ao indivíduo. Isso não retira a agência humana, mas mostra que agimos com **limitações dadas pela própria sociedade**.
+**Bruno:** Isso rompe com diversos entendimentos que colocam o indivíduo como centro absoluto de tudo — dono de si, dono do mundo, vontade máxima de potência, ou o próprio Deus — como defendia **Friedrich Nietzsche** e como defendem hoje várias correntes do **pós-modernismo** e do chamado **identitarismo**.
 
-**Claude:** As "máscaras de caráter": o capitalista e o latifundiário interessam a Marx não como vilões pessoais, mas como *personificações de relações estruturais*.
+**Claude:** As "máscaras de caráter" (*Charaktermasken*): o capitalista e o latifundiário interessam a Marx não como vilões pessoais, mas como *personificações de relações estruturais*. Marx equilibra estrutura e agência:
 
-> "Os homens fazem sua própria história, mas não a fazem como querem, nem sob circunstâncias de sua escolha."
+> "Os homens fazem sua própria história, mas não a fazem como querem, nem sob circunstâncias de sua escolha — e sim sob aquelas com que se defrontam diretamente, legadas e transmitidas pelo passado."
 
 Marx, *O 18 de Brumário de Luís Bonaparte*, 1852.
 
@@ -270,7 +329,25 @@ Marx, *O 18 de Brumário de Luís Bonaparte*, 1852.
 
 Marx, *O Capital*, Prefácio à 1ª edição. Ed. Civilização Brasileira, 2002, p. 18.
 
-**Bruno:** Por isso Marx foi tão atacado e difamado na história: **o capital reage para defender seus interesses** — e isso segue extremamente atual hoje, mesmo no mundo digital, dos influencers e da uberização.
+**Bruno:** No §11, Marx mostra como sua construção científica gerou reações pessoais e de interesses privados. A própria Igreja anglicana se colocou contra, para defender seu dinheiro e suas posses: ela prefere abrir mão de quase toda a doutrina a perder 1/39 de suas rendas. Ou seja: o **poder da posse e do dinheiro**.
+
+Por isso Marx foi tão atacado e difamado na história: o capital, em sua diversidade, reagiu e reage para defender seus interesses.
+
+::: aside
+→ Prefácio à 1ª edição (1867)
+:::
+
+---
+
+## §11 — Capital e trabalho: uma dicotomia atual {.center}
+
+**Bruno:** Nessa parte Marx também cita a dicotomia **capital e trabalho**, que marca toda a sua obra e segue extremamente atual hoje — mesmo no chamado mundo digital, dos **influencers** e da **uberização**.
+
+- O entregador de aplicativo: sem FGTS, sem férias, sem 13º, controlado por algoritmo
+- O influencer: vende sua imagem como mercadoria, muitas vezes sem perceber a lógica da mais-valia
+- O trabalhador informal: fora dos direitos, mas dentro da exploração
+
+> A forma muda; a essência — a dicotomia capital × trabalho — permanece.
 
 ::: aside
 → Prefácio à 1ª edição (1867)
@@ -283,9 +360,11 @@ Marx, *O Capital*, Prefácio à 1ª edição. Ed. Civilização Brasileira, 2002
 > "Segue o teu caminho, e deixa as pessoas falarem!"
 > *(Segui il tuo corso, e lascia dir le genti)*
 
-Marx cita **Dante Alighieri** (*Divina Comédia*, Purgatório, V) — Ed. Civilização Brasileira, 2002, p. 19.
+Marx cita **Dante Alighieri** (*Divina Comédia*, Purgatório, V) no fim do Prefácio à 1ª edição. Ed. Civilização Brasileira, 2002, p. 19.
 
-**Claude:** Dante Alighieri (1265–1321), poeta de Florença. É a divisa de quem segue sua obra sem se deixar abater pela maledicência. Marx o tinha como um de seus poetas prediletos.
+**Bruno:** No último parágrafo, Marx diz que acolherá bem as críticas e se coloca aberto a elas; mas, quanto aos **preconceitos da opinião pública**, seguirá a máxima do florentino: *segue teu rumo, e não te importes com o que os outros digam!*
+
+**Claude:** Dante Alighieri (1265–1321), poeta de Florença. O verso do Purgatório (canto V) é a divisa de quem segue sua obra sem se deixar abater pela maledicência. Marx o tinha como um de seus poetas prediletos.
 
 ::: aside
 → Prefácio à 1ª edição (1867)
@@ -321,13 +400,28 @@ Posfácio à 2ª edição alemã
 
 ---
 
-## §§6-8 — Economia política burguesa e seus limites {.center}
+## §§6, 7 e 8 — Economia política burguesa {.center}
 
-**Bruno:** Marx mostra como a economia política burguesa via o capitalismo como a **forma definitiva e eterna** do modo de produção.
+**Bruno:** No fim da p. 22 e início da p. 23, Marx mostra como a economia política burguesa via o capitalismo como a **forma definitiva e eterna** do modo de produção — e só consegue aparecer nessa falsificação e fantasmagoria particular enquanto a classe trabalhadora está latente ou esporádica.
 
-**David Ricardo** (Londres, 1772–1823): levou ao auge a teoria do valor-trabalho; ponto mais alto *e* limite da economia clássica — incapaz de ver o capitalismo como histórico e transitório.
+Assim que houver **luta de classes direta**, a economia política passa a ser contestada.
 
-**Sismondi** (Genebra, 1773–1842): primeiro a apontar as crises e contradições do capitalismo — inaugurou a crítica, ainda que de viés "pequeno-burguês".
+- **David Ricardo** (1772–1823): último grande representante da economia política burguesa clássica, com uma visão que **naturalizava** os fenômenos sociais
+- **Sismondi** (1773–1842): início da crítica à economia política burguesa
+
+::: aside
+→ Posfácio à 2ª edição alemã (1873)
+:::
+
+---
+
+## §§6-8 — Ricardo e Sismondi {.center}
+
+**Claude:** Quem foram eles:
+
+**David Ricardo** (Londres, 1772–1823): economista inglês, autor dos *Princípios de economia política e tributação* (1817). Levou ao auge a teoria do valor-trabalho na economia clássica. Para Marx, é o ponto mais alto e, ao mesmo tempo, o limite da economia política burguesa "clássica" — honesta na investigação, mas incapaz de ver o capitalismo como histórico e transitório.
+
+**Sismondi** (Genebra, 1773–1842): economista e historiador suíço. Foi um dos primeiros a apontar as crises e contradições do capitalismo (superprodução, pauperização), inaugurando uma crítica — ainda que de viés "pequeno-burguês", na leitura de Marx — ao otimismo da economia clássica.
 
 ::: aside
 → Posfácio à 2ª edição alemã (1873)
@@ -341,7 +435,9 @@ Posfácio à 2ª edição alemã
 
 Marx, *O Capital*, Posfácio à 2ª edição. Ed. Civilização Brasileira, 2002, p. 24.
 
-**Bruno:** Com a burguesia no poder, a economia política deixou de ser imparcial e passou a servir por completo aos interesses do capital.
+**Bruno:** Na p. 24, Marx mostra como, com a chegada da burguesia ao poder na França e na Inglaterra, a economia política **mudou**: deixou de ser imparcial e passou a servir por completo aos interesses do capital. A ciência ficou assim também.
+
+Veja como Marx se refere aos defensores da burguesia no plano teórico e intelectual: **apologética** — de *apologia*, defesa incondicional do status quo.
 
 ::: aside
 → Posfácio à 2ª edição alemã (1873)
@@ -351,7 +447,7 @@ Marx, *O Capital*, Posfácio à 2ª edição. Ed. Civilização Brasileira, 2002
 
 ## §10 — 1848 e a impossibilidade de esconder o conflito {.center}
 
-**Bruno:** Após os levantes de 1848 — a **"Primavera dos Povos"** — já não se conseguia conciliar a explicação da economia burguesa com os interesses dos trabalhadores, nem esconder o conflito entre capital e trabalho.
+**Bruno:** No §10 (p. 24), Marx diz que já não se conseguia conciliar a explicação da economia burguesa com os interesses dos trabalhadores, nem esconder o conflito entre capital e trabalho — sobretudo após os levantes de **1848**, hoje chamados de **"Primavera dos Povos"**.
 
 <br>
 
@@ -365,12 +461,14 @@ Marx, *O Capital*, Posfácio à 2ª edição. Ed. Civilização Brasileira, 2002
 
 ## §11 — O capitalismo como regime antagônico {.center}
 
-**Bruno:** Marx reafirma que o capitalismo é, em si, um **regime antagônico**, que opõe duas grandes classes: burguesia/capital × trabalho/trabalhadores.
+**Bruno:** No §11, Marx reafirma que o capitalismo é, em si, um **regime antagônico**, que opõe duas grandes classes — com suas clivagens internas e diversidades: **burguesia/capital** e **trabalho/trabalhadores**.
 
-No caso alemão, a economia política ideológica não conseguiu se desenvolver porque o proletariado já tinha experiência como **classe consciente e em luta**:
+No caso alemão, a economia política ideológica não conseguiu se desenvolver porque o proletariado já tinha experiência como **classe consciente e em luta**. Marx certamente se refere:
 
-- Levantes na região do Mosela (furto da lenha, 1842)
-- Levante dos tecelões da Silésia (1844)
+- Aos levantes na região do **Mosela** (a questão do furto da lenha, 1842)
+- Ao levante dos **tecelões da Silésia** (1844)
+
+*O jovem Marx escreveu sobre os tecelões em 1844, vendo neles um dos primeiros sinais de consciência de classe do proletariado alemão.*
 
 ::: aside
 → Posfácio à 2ª edição alemã (1873)
@@ -384,7 +482,9 @@ No caso alemão, a economia política ideológica não conseguiu se desenvolver 
 
 Marx, *O Capital*, Posfácio à 2ª edição. Ed. Civilização Brasileira, 2002, p. 24.
 
-**Claude:** A ironia é mordaz: Marx descreve a atividade intelectual deles com o vocabulário do próprio comércio que defendiam. Enquanto o proletariado alemão já agia como sujeito histórico, sua "intelligentsia" econômica permanecia subalterna e dependente.
+**Bruno:** No §12, Marx segue sua **crítica irônica** aos intelectuais e ao pensamento da economia e da ciência na Alemanha, dizendo que copiavam o entendimento de outras nações, sobretudo o da economia inglesa.
+
+**Claude:** A ironia tem várias camadas: Marx descreve a atividade intelectual deles com o vocabulário do próprio *comércio* que defendiam. Enquanto o proletariado alemão já agia como sujeito histórico, sua "intelligentsia" permanecia subalterna e dependente — inverte-se a hierarquia esperada.
 
 ::: aside
 → Posfácio à 2ª edição alemã (1873)
@@ -398,7 +498,21 @@ Marx, *O Capital*, Posfácio à 2ª edição. Ed. Civilização Brasileira, 2002
 
 Marx, *O Capital*, Posfácio à 2ª edição. Ed. Civilização Brasileira, 2002, p. 25.
 
-**Bruno:** Marx ressalta o caráter de crítica — "arma da crítica" (1843) — e coloca o proletariado como o ser dotado de uma **práxis e de uma missão**: fazer a revolução. O primeiro passo: entender a própria realidade.
+**Bruno:** No §13 (p. 25), Marx ressalta o caráter de crítica — ou **"arma da crítica"**, como dissera em 1843 na *Introdução à crítica da filosofia do direito de Hegel* —, em que coloca o proletariado como o ser dotado de uma **práxis e de uma missão**: fazer a revolução. E para isso o primeiro passo é entender a própria realidade.
+
+::: aside
+→ Posfácio à 2ª edição alemã (1873)
+:::
+
+---
+
+## §§14 e 18-21 — Tentativas de silenciar a obra {.center}
+
+**Bruno:** No §14, Marx mostra como os porta-vozes da burguesia tentaram, com **violência**, evitar a repercussão da obra — como já tinham feito antes com artigos dele. Quando viram que não conseguiam silenciá-la, começaram a escrever contra.
+
+Na p. 26 (§§17 a 21), Marx mostra como estava sendo chamado de **"metafísico"** e de outras denominações nos jornais da época.
+
+**Claude:** Marx cita resenhas alemãs, francesas e russas que se contradizem entre si — para uns, ele é *abstrato demais*; para outros, *concreto demais*. Para Marx, essa contradição apenas revela que não compreenderam o método dialético. É nesse contexto que ele decide, em seguida, explicar ele próprio o método.
 
 ::: aside
 → Posfácio à 2ª edição alemã (1873)
@@ -408,14 +522,16 @@ Marx, *O Capital*, Posfácio à 2ª edição. Ed. Civilização Brasileira, 2002
 
 ## Método de pesquisa × método de exposição {.center}
 
+**Bruno:** Quase no final do segundo prefácio (p. 28), Marx fala da diferença entre o **método de exposição** e o **método de pesquisa**:
+
+- **Método de pesquisa**: apropriar-se da matéria em detalhe, analisar suas formas, rastrear suas conexões internas
+- **Método de exposição**: apresentar o já investigado de forma sistemática, do abstrato ao concreto
+
 > "Para mim, ao contrário, o ideal não é mais do que o material transposto para a cabeça do ser humano e por ela interpretado."
 
 Marx, *O Capital*, Posfácio à 2ª edição. Ed. Civilização Brasileira, 2002, p. 28.
 
-**Distinção fundamental:**
-
-- **Método de pesquisa**: apropriar-se da matéria em detalhe, analisar formas, rastrear conexões internas
-- **Método de exposição**: apresentar o já investigado de forma sistemática, do abstrato ao concreto
+*A exposição pode "parecer" uma construção a priori, mas resulta de pesquisa empírica anterior.*
 
 ::: aside
 → Posfácio à 2ª edição alemã (1873)
@@ -429,9 +545,26 @@ Marx, *O Capital*, Posfácio à 2ª edição. Ed. Civilização Brasileira, 2002
 
 Marx, *O Capital*, Posfácio à 2ª edição. Ed. Civilização Brasileira, 2002, p. 29.
 
-**Bruno:** É uma frase famosa, mas muitas vezes usada de forma vulgar, como se Marx abandonasse tudo de Hegel — e isso não é verdade.
+**Bruno:** Marx se diferencia de Hegel: em Hegel, o real é criado pela ideia, sendo apenas sua manifestação externa. Marx inverte — mas criticou Hegel há quase 30 anos, quando Hegel ainda estava na moda, e **assume ser discípulo de Hegel**.
 
-**Claude:** A metáfora da "inversão" não é uma rejeição de Hegel; é uma **reapropriação crítica**. Marx mantém a dialética como lógica do movimento e da contradição, e rejeita apenas o idealismo.
+Elogio: *"A mistificação por que passa a dialética nas mãos de Hegel não o impediu de ser o primeiro a apresentar suas formas gerais de movimento, de maneira ampla e consciente."*
+
+::: aside
+→ Posfácio à 2ª edição alemã (1873)
+:::
+
+---
+
+## A relação Marx–Hegel: reapropriação, não abandono {.center}
+
+**Bruno:** Essa frase é famosa, mas muitas vezes usada de forma vulgar, **como se Marx abandonasse tudo de Hegel — e isso não é verdade**.
+
+**Claude:** A metáfora da "inversão" (*Umstülpung*) não é uma rejeição de Hegel; é uma **reapropriação crítica**:
+
+- Marx **mantém** o núcleo racional: a dialética como lógica do movimento, da contradição e da totalidade
+- Marx **rejeita** o invólucro místico: o idealismo que faz a Ideia criar o real
+
+A leitura vulgar ("é só virar Hegel de ponta-cabeça e pronto") erra em dois sentidos: (1) trata a inversão como um truque mecânico; (2) joga fora a dialética junto com o idealismo — ficando com um "materialismo" raso e não-dialético. Exatamente o que Marx critica.
 
 ::: aside
 → Posfácio à 2ª edição alemã (1873)
@@ -459,7 +592,11 @@ Prefácio (Advertência) à edição francesa
 
 Marx, *O Capital*, Prefácio à edição francesa. Ed. Civilização Brasileira, 2002, p. 31.
 
-**Claude:** A "estrada real" (*voie royale*) é uma alusão a Euclides — não existe atalho de privilégio para o conhecimento. Fecha o conjunto dos três prefácios com coerência: a ciência crítica exige esforço, e esse esforço é a condição da liberdade do pensamento.
+**Bruno:** Neste prefácio, bem curto, Marx fala de sua obra e de como ela é difícil, mas necessária para quem quer chegar de fato à crítica e à verdade.
+
+**Claude:** A "estrada real" (*voie royale*) é uma alusão a Euclides — atribuída ao dizer ao rei Ptolomeu que "não há caminho real para a geometria". Marx reaproveita a imagem: não existe atalho de privilégio para o conhecimento; só chega ao alto quem encara a subida difícil.
+
+*Fecha o conjunto dos três prefácios com coerência: a ciência crítica exige esforço — e esse esforço é a condição da liberdade do pensamento.*
 
 ::: aside
 → Prefácio à edição francesa (1872)
@@ -471,9 +608,9 @@ Marx, *O Capital*, Prefácio à edição francesa. Ed. Civilização Brasileira,
 
 | | Tema central |
 |---|---|
-| **1ª ed. (1867)** | Método, dificuldade da mercadoria, liberdade de pensar |
-| **2ª ed. (1873)** | Resposta aos críticos, método dialético, Hegel |
-| **Ed. francesa (1872)** | Esforço necessário para o conhecimento crítico |
+| **1ª ed. (1867)** | Método, mercadoria, autonomia do pensar, luta de classes |
+| **2ª ed. (1873)** | Resposta a críticos, apologética, método dialético, Hegel |
+| **Ed. francesa (1872)** | A dificuldade necessária do conhecimento crítico |
 
 <br>
 
@@ -492,4 +629,4 @@ Marx, *O Capital*, Prefácio à edição francesa. Ed. Civilização Brasileira,
 - SANTOS, Milton. *Por uma outra globalização*. Rio de Janeiro: Record, 2000.
 - IBN KHALDUN. *Os Prolegômenos (Muqaddimah)*. Escrito em 1377.
 - DANTE ALIGHIERI. *A Divina Comédia (Purgatório)*. [1265–1321].
-- MARX, Karl. Fotografia de John Jabez Edwin Mayall, c. 1875. Domínio Público. Wikimedia Commons. Acesso em: 14 jun. 2026.
+- MARX, Karl. Fotografia de John Jabez Edwin Mayall, c. 1875. Domínio Público. Wikimedia Commons. Acesso em: 15 jun. 2026.

@@ -97,12 +97,15 @@ $link-color: #ff9999;
 }
 
 .reveal .aside,
-.reveal aside {
-  position: absolute;
-  bottom: 2px;
-  left: 20px;
-  font-size: 0.45em;
-  color: rgba(224, 85, 85, 0.6);
-  font-family: 'Inter', sans-serif;
-  font-style: normal;
+.reveal aside,
+.reveal section aside {
+  position: absolute !important;
+  bottom: 38px !important;
+  left: 20px !important;
+  font-size: 0.4em !important;
+  color: rgba(224, 85, 85, 0.5) !important;
+  font-family: 'Inter', sans-serif !important;
+  font-style: normal !important;
+  line-height: 1.2 !important;
+  max-width: 300px !important;
 }
