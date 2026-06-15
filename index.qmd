@@ -145,6 +145,14 @@ Essa comparação (ciência social × ciências naturais) era corrente no sécul
 - **Valor de uso** → trabalho concreto: qualitativo, rico em diversidade, vida, experiências, sentidos e cultura
 - **Valor de troca** → trabalho abstrato: medido, quantificado, com preço-hora socialmente médio
 
+::: aside
+→ Prefácio à 1ª edição (1867)
+:::
+
+---
+
+## §3 — Valor de uso e valor de troca (cont.) {.center}
+
 O trabalho abstrato **não é** uma definição feita pelo trabalhador, mas uma imposição social — não de um capitalista isolado, mas de um tipo de sociedade que valoriza quantidade, preço e lucro sobre sentidos, liberdade e realização humana.
 
 A forma do valor de troca (trabalho abstrato) **hegemoniza a sociedade e domina o ser humano**. Daí a importância da dialética: ir às partes e voltar ao todo.
@@ -167,7 +175,7 @@ O contexto europeu: pensamento ainda dominado pela Igreja. O **protestantismo** 
 
 ---
 
-## §4 — Outras fontes de dominação do pensamento {.center}
+## §4 — Outras fontes de dominação do pensamento {.center .smaller}
 
 **Bruno:** Além da Igreja, outras fontes de dominação do pensamento em 1867:
 
@@ -385,7 +393,7 @@ Marx cita **Dante Alighieri** (*Divina Comédia*, Purgatório, V) no fim do Pref
 <br><br>
 
 ::: {style="font-size: 2em; color: #e05555; font-family: 'Merriweather', serif;"}
-Posfácio à 2ª edição alemã
+Prefácio à 2ª edição
 :::
 
 ::: {style="font-size: 1.1em; color: #f0e8e8; margin-top: 0.5em;"}
@@ -403,7 +411,7 @@ Posfácio à 2ª edição alemã
 > *A obra não foi escrita para a academia, mas para quem precisava — e quem precisava estava lendo.*
 
 ::: aside
-→ Posfácio à 2ª edição alemã (1873)
+→ Prefácio à 2ª edição (1873)
 :::
 
 ---
@@ -418,7 +426,7 @@ Assim que houver **luta de classes direta**, a economia política passa a ser co
 - **Sismondi** (1773–1842): início da crítica à economia política burguesa
 
 ::: aside
-→ Posfácio à 2ª edição alemã (1873)
+→ Prefácio à 2ª edição (1873)
 :::
 
 ---
@@ -432,7 +440,7 @@ Assim que houver **luta de classes direta**, a economia política passa a ser co
 **Sismondi** (Genebra, 1773–1842): economista e historiador suíço. Foi um dos primeiros a apontar as crises e contradições do capitalismo (superprodução, pauperização), inaugurando uma crítica — ainda que de viés "pequeno-burguês", na leitura de Marx — ao otimismo da economia clássica.
 
 ::: aside
-→ Posfácio à 2ª edição alemã (1873)
+→ Prefácio à 2ª edição (1873)
 :::
 
 ---
@@ -448,7 +456,7 @@ Marx, *O Capital*, Posfácio à 2ª edição. Ed. Civilização Brasileira, 2002
 Veja como Marx se refere aos defensores da burguesia no plano teórico e intelectual: **apologética** — de *apologia*, defesa incondicional do status quo.
 
 ::: aside
-→ Posfácio à 2ª edição alemã (1873)
+→ Prefácio à 2ª edição (1873)
 :::
 
 ---
@@ -462,7 +470,7 @@ Veja como Marx se refere aos defensores da burguesia no plano teórico e intelec
 > *A história não permite que as contradições fiquem escondidas indefinidamente.*
 
 ::: aside
-→ Posfácio à 2ª edição alemã (1873)
+→ Prefácio à 2ª edição (1873)
 :::
 
 ---
@@ -479,7 +487,7 @@ No caso alemão, a economia política ideológica não conseguiu se desenvolver 
 *O jovem Marx escreveu sobre os tecelões em 1844, vendo neles um dos primeiros sinais de consciência de classe do proletariado alemão.*
 
 ::: aside
-→ Posfácio à 2ª edição alemã (1873)
+→ Prefácio à 2ª edição (1873)
 :::
 
 ---
@@ -495,7 +503,7 @@ Marx, *O Capital*, Posfácio à 2ª edição. Ed. Civilização Brasileira, 2002
 **Claude:** A ironia tem várias camadas: Marx descreve a atividade intelectual deles com o vocabulário do próprio *comércio* que defendiam. Enquanto o proletariado alemão já agia como sujeito histórico, sua "intelligentsia" permanecia subalterna e dependente — inverte-se a hierarquia esperada.
 
 ::: aside
-→ Posfácio à 2ª edição alemã (1873)
+→ Prefácio à 2ª edição (1873)
 :::
 
 ---
@@ -509,7 +517,7 @@ Marx, *O Capital*, Posfácio à 2ª edição. Ed. Civilização Brasileira, 2002
 **Bruno:** No §13 (p. 25), Marx ressalta o caráter de crítica — ou **"arma da crítica"**, como dissera em 1843 na *Introdução à crítica da filosofia do direito de Hegel* —, em que coloca o proletariado como o ser dotado de uma **práxis e de uma missão**: fazer a revolução. E para isso o primeiro passo é entender a própria realidade.
 
 ::: aside
-→ Posfácio à 2ª edição alemã (1873)
+→ Prefácio à 2ª edição (1873)
 :::
 
 ---
@@ -523,7 +531,7 @@ Na p. 26 (§§17 a 21), Marx mostra como estava sendo chamado de **"metafísico"
 **Claude:** Marx cita resenhas alemãs, francesas e russas que se contradizem entre si — para uns, ele é *abstrato demais*; para outros, *concreto demais*. Para Marx, essa contradição apenas revela que não compreenderam o método dialético. É nesse contexto que ele decide, em seguida, explicar ele próprio o método.
 
 ::: aside
-→ Posfácio à 2ª edição alemã (1873)
+→ Prefácio à 2ª edição (1873)
 :::
 
 ---
@@ -542,7 +550,7 @@ Marx, *O Capital*, Posfácio à 2ª edição. Ed. Civilização Brasileira, 2002
 *A exposição pode "parecer" uma construção a priori, mas resulta de pesquisa empírica anterior.*
 
 ::: aside
-→ Posfácio à 2ª edição alemã (1873)
+→ Prefácio à 2ª edição (1873)
 :::
 
 ---
@@ -558,7 +566,7 @@ Marx, *O Capital*, Posfácio à 2ª edição. Ed. Civilização Brasileira, 2002
 Elogio: *"A mistificação por que passa a dialética nas mãos de Hegel não o impediu de ser o primeiro a apresentar suas formas gerais de movimento, de maneira ampla e consciente."*
 
 ::: aside
-→ Posfácio à 2ª edição alemã (1873)
+→ Prefácio à 2ª edição (1873)
 :::
 
 ---
@@ -575,7 +583,7 @@ Elogio: *"A mistificação por que passa a dialética nas mãos de Hegel não o 
 A leitura vulgar ("é só virar Hegel de ponta-cabeça e pronto") erra em dois sentidos: (1) trata a inversão como um truque mecânico; (2) joga fora a dialética junto com o idealismo — ficando com um "materialismo" raso e não-dialético. Exatamente o que Marx critica.
 
 ::: aside
-→ Posfácio à 2ª edição alemã (1873)
+→ Prefácio à 2ª edição (1873)
 :::
 
 ---
