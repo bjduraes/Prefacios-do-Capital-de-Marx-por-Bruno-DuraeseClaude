@@ -128,7 +128,7 @@ Marx dá o exemplo da **"População"**: se ficarmos só nesse termo geral, não
 
 Marx, *O Capital*, Prefácio à 1ª edição. Ed. Civilização Brasileira, 2002, p. 16.
 
-**Bruno:** É mais fácil estudar um organismo como todo (a totalidade) do que suas partes. E na análise da sociedade não há como usar microscópio — mas a **capacidade de abstração**, a inventividade e criatividade do pensamento, substitui o microscópio.
+**Bruno:** Conforme Marx, é mais fácil estudar um organismo como todo (a totalidade) do que suas partes. E na análise da sociedade não há como usar microscópio — mas a **capacidade de abstração**, a inventividade e criatividade do pensamento, substitui o microscópio.
 
 Essa comparação (ciência social × ciências naturais) era corrente no século XIX — Saint-Simon, Comte e Durkheim. Marx acompanhava debates em vários idiomas e nacionalidades, incluindo uma diversidade de povos.
 
@@ -140,7 +140,7 @@ Essa comparação (ciência social × ciências naturais) era corrente no sécul
 
 ## §3 — Valor de uso e valor de troca {.center}
 
-**Bruno:** A forma-mercadoria é difícil de entender porque ela é o revestimento da forma-trabalho. A mercadoria é a **forma-valor**, que contém:
+**Bruno:** A forma-mercadoria, segundo Marx, é difícil de entender porque ela é o revestimento da forma-trabalho. A mercadoria é a **forma-valor**, que contém:
 
 - **Valor de uso** → trabalho concreto: qualitativo, rico em diversidade, vida, experiências, sentidos e cultura
 - **Valor de troca** → trabalho abstrato: medido, quantificado, com preço-hora socialmente médio
@@ -153,7 +153,7 @@ Essa comparação (ciência social × ciências naturais) era corrente no sécul
 
 ## §3 — Valor de uso e valor de troca (cont.) {.center}
 
-O trabalho abstrato **não é** uma definição feita pelo trabalhador, mas uma imposição social — não de um capitalista isolado, mas de um tipo de sociedade que valoriza quantidade, preço e lucro sobre sentidos, liberdade e realização humana.
+O trabalho abstrato, em Marx, **não é** uma definição feita pelo trabalhador, mas uma imposição social — não de um capitalista isolado, mas de um tipo de sociedade que valoriza quantidade, preço e lucro diante dos sentidos, liberdade e realização humana.
 
 A forma do valor de troca (trabalho abstrato) **hegemoniza a sociedade e domina o ser humano**. Daí a importância da dialética: ir às partes e voltar ao todo.
 
@@ -183,7 +183,7 @@ O contexto europeu: pensamento ainda dominado pela Igreja. O **protestantismo** 
 - **Idealismo filosófico** (Kant e os hegelianos)
 - Os **"ideólogos da burguesia"**: a economia política inglesa e francesa
 
-Marx a chamava de "política" para dizer que toda explicação econômica **não é só economia ou números**, mas uma visão de mundo, uma forma política de agir, uma ideologia.
+Marx chamava a economia de "política" para dizer que toda explicação econômica **não é só economia ou números**, mas uma visão de mundo, uma forma política de agir, uma ideologia.
 
 *O Capital* se propõe a fazer essas críticas em diversas áreas — não só na economia, mas na forma de naturalização do mundo que reafirmava o status quo e colocava sempre a burguesia como legitimamente superior aos trabalhadores.
 
@@ -267,7 +267,7 @@ Marx, *O Capital*, Prefácio à 1ª edição. Ed. Civilização Brasileira, 2002
 
 > "O trabalho de pele branca não pode emancipar-se onde o trabalho de pele negra é marcado a ferro."
 
-Marx, *O Capital*, Livro I, cap. 8 (sobre a jornada de trabalho). Tradução consagrada de: *"Labour cannot emancipate itself in the white skin where in the black it is branded."*
+Marx, *O Capital*, Livro I, cap. 8 (sobre a jornada de trabalho).
 
 **Para o Brasil:** a informalidade e a precariedade são, em grande medida, a continuação da escravidão por outros meios. Os "mortos" (escravidão, colonialismo) atormentam os "vivos" (trabalhadores informais, entregadores, domésticas).
 
@@ -329,9 +329,9 @@ Marx, *O Capital*, Prefácio à 1ª edição. Ed. Civilização Brasileira, 2002
 
 **Claude:** As "máscaras de caráter" (*Charaktermasken*): o capitalista e o latifundiário interessam a Marx não como vilões pessoais, mas como *personificações de relações estruturais*. Marx equilibra estrutura e agência:
 
-> "Os homens fazem sua própria história, mas não a fazem como querem, nem sob circunstâncias de sua escolha — e sim sob aquelas com que se defrontam diretamente, legadas e transmitidas pelo passado."
+> "Os homens fazem a sua própria história; contudo, não a fazem de livre e espontânea vontade, pois não são eles quem escolhem as circunstâncias sob as quais ela é feita, mas estas lhe foram transmitidas assim como se encontram. A tradição de todas as gerações passadas é como um pesadelo que oprime o cérebro dos vivos" (MARX, 2011, p.25).
 
-Marx, *O 18 de Brumário de Luís Bonaparte*, 1852.
+MARX, K. *O 18 de brumário de Lúis Bonaparte*. São Paulo: Boitempo, 2011.
 
 ::: aside
 → Prefácio à 1ª edição (1867)
@@ -420,7 +420,7 @@ Prefácio à 2ª edição
 
 **Bruno:** No fim da p. 22 e início da p. 23, Marx mostra como a economia política burguesa via o capitalismo como a **forma definitiva e eterna** do modo de produção — e só consegue aparecer nessa falsificação e fantasmagoria particular enquanto a classe trabalhadora está latente ou esporádica.
 
-Assim que houver **luta de classes direta**, a economia política passa a ser contestada.
+Assim que houver **luta de classes direta**, a economia política passa a ser contestada. Conforme Marx:
 
 - **David Ricardo** (1772–1823): último grande representante da economia política burguesa clássica, com uma visão que **naturalizava** os fenômenos sociais
 - **Sismondi** (1773–1842): início da crítica à economia política burguesa
@@ -435,7 +435,7 @@ Assim que houver **luta de classes direta**, a economia política passa a ser co
 
 **Claude:** Quem foram eles:
 
-**David Ricardo** (Londres, 1772–1823): economista inglês, autor dos *Princípios de economia política e tributação* (1817). Levou ao auge a teoria do valor-trabalho na economia clássica. Para Marx, é o ponto mais alto e, ao mesmo tempo, o limite da economia política burguesa "clássica" — honesta na investigação, mas incapaz de ver o capitalismo como histórico e transitório.
+**David Ricardo** (Londres, 1772–1823): economista inglês, autor dos *Princípios de economia política e tributação* (1817). Levou ao auge a teoria do valor-trabalho na economia clássica. Para Marx, é o ponto mais alto e, ao mesmo tempo, o limite da economia política burguesa "clássica" — honesto na investigação, mas incapaz de ver o capitalismo como histórico e transitório.
 
 **Sismondi** (Genebra, 1773–1842): economista e historiador suíço. Foi um dos primeiros a apontar as crises e contradições do capitalismo (superprodução, pauperização), inaugurando uma crítica — ainda que de viés "pequeno-burguês", na leitura de Marx — ao otimismo da economia clássica.
 
@@ -449,7 +449,7 @@ Assim que houver **luta de classes direta**, a economia política passa a ser co
 
 > "Os pesquisadores desinteressados foram substituídos por espadachins mercenários, a investigação científica imparcial cedeu seu lugar à consciência deformada e às intenções perversas da apologética."
 
-Marx, *O Capital*, Posfácio à 2ª edição. Ed. Civilização Brasileira, 2002, p. 24.
+Marx, *O Capital*, Prefácio à 2ª edição. Ed. Civilização Brasileira, 2002, p. 24.
 
 **Bruno:** Na p. 24, Marx mostra como, com a chegada da burguesia ao poder na França e na Inglaterra, a economia política **mudou**: deixou de ser imparcial e passou a servir por completo aos interesses do capital. A ciência ficou assim também.
 
@@ -512,7 +512,7 @@ Marx, *O Capital*, Posfácio à 2ª edição. Ed. Civilização Brasileira, 2002
 
 > "Se a crítica representa a voz de uma classe, só pode ser a da classe cuja missão histórica é derrubar o modo de produção capitalista e abolir, finalmente, todas as classes: o proletariado."
 
-Marx, *O Capital*, Posfácio à 2ª edição. Ed. Civilização Brasileira, 2002, p. 25.
+Marx, *O Capital*, Prefácio à 2ª edição. Ed. Civilização Brasileira, 2002, p. 25.
 
 **Bruno:** No §13 (p. 25), Marx ressalta o caráter de crítica — ou **"arma da crítica"**, como dissera em 1843 na *Introdução à crítica da filosofia do direito de Hegel* —, em que coloca o proletariado como o ser dotado de uma **práxis e de uma missão**: fazer a revolução. E para isso o primeiro passo é entender a própria realidade.
 
@@ -545,7 +545,7 @@ Na p. 26 (§§17 a 21), Marx mostra como estava sendo chamado de **"metafísico"
 
 > "Para mim, ao contrário, o ideal não é mais do que o material transposto para a cabeça do ser humano e por ela interpretado."
 
-Marx, *O Capital*, Posfácio à 2ª edição. Ed. Civilização Brasileira, 2002, p. 28.
+Marx, *O Capital*, Prefácio à 2ª edição. Ed. Civilização Brasileira, 2002, p. 28.
 
 *A exposição pode "parecer" uma construção a priori, mas resulta de pesquisa empírica anterior.*
 
@@ -559,7 +559,7 @@ Marx, *O Capital*, Posfácio à 2ª edição. Ed. Civilização Brasileira, 2002
 
 > "Em Hegel, a dialética está de cabeça para baixo. É necessário pô-la de cabeça para cima, a fim de descobrir a substância racional dentro do invólucro místico."
 
-Marx, *O Capital*, Posfácio à 2ª edição. Ed. Civilização Brasileira, 2002, p. 29.
+Marx, *O Capital*, Prefácio à 2ª edição. Ed. Civilização Brasileira, 2002, p. 29.
 
 **Bruno:** Marx se diferencia de Hegel: em Hegel, o real é criado pela ideia, sendo apenas sua manifestação externa. Marx inverte — mas criticou Hegel há quase 30 anos, quando Hegel ainda estava na moda, e **assume ser discípulo de Hegel**.
 
@@ -620,7 +620,7 @@ Marx, *O Capital*, Prefácio à edição francesa. Ed. Civilização Brasileira,
 
 ---
 
-## Síntese dos três prefácios {.center}
+## Síntese dos três prefácios {.center .smaller}
 
 | | Tema central |
 |---|---|
